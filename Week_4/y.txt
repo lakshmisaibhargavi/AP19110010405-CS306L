@@ -1,0 +1,55 @@
+ 
+ int is keyword
+ main is identifier 
+ int is keyword
+ a is identifier
+ 5 is digit
+ b is identifier
+ 10 is digit
+ cout is identifier
+ < is Relational operator Lessthan
+ < is Relational operator Lessthan
+ Before is identifier
+ swap is identifier
+ a is identifier
+ < is Relational operator Lessthan
+ < is Relational operator Lessthan
+ a is identifier
+ < is Relational operator Lessthan
+ < is Relational operator Lessthan
+ b is identifier
+ < is Relational operator Lessthan
+ < is Relational operator Lessthan
+ b is identifier
+ < is Relational operator Lessthan
+ < is Relational operator Lessthan
+ endl is identifier
+ a is identifier
+ a is identifier
+ b is identifier
+ b is identifier
+ a is identifier
+ b is identifier
+ a is identifier
+ a is identifier
+ b is identifier
+ cout is identifier
+ < is Relational operator Lessthan
+ < is Relational operator Lessthan
+ After is identifier
+ swap is identifier
+ a is identifier
+ < is Relational operator Lessthan
+ < is Relational operator Lessthan
+ a is identifier
+ < is Relational operator Lessthan
+ < is Relational operator Lessthan
+ b is identifier
+ < is Relational operator Lessthan
+ < is Relational operator Lessthan
+ b is identifier
+ < is Relational operator Lessthan
+ < is Relational operator Lessthan
+ endl is identifier
+ return is identifier
+ 0 is digit
